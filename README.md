@@ -1,5 +1,5 @@
 # KContacts
-İOS Basic Contacts Class
+İOS Contacts Framework Helper Class
 
 ##### Auth
 
